@@ -9,6 +9,7 @@ Click on a scenario to view the detailed troubleshooting steps.
 
 ## Current Scenarios
 1. [PC Won't Turn On](pc_wont_turn_on.md)
+2. [Cannot Connect to the Network](network_issue.md)
 
 ---
 
@@ -21,13 +22,15 @@ This guide is designed to:
 
 ## Future Plans
 - Add scenarios such as:
-  - Network connectivity issues.
-  - Software crashes.
-  - Email delivery problems.
+  - **Software crashes**
+  - **Email delivery problems**
+  - **Common peripheral device issues (e.g., printers, USB devices)**
 
 ---
 
 ## About Me 
-I am a bilingual IT support specialist with a passion for providing excellent technical solutions. 
-- [LinkedIn](https://www.linkedin.com/in/yuka-yamaguchi-214290342)
+I am a bilingual IT support specialist with a passion for providing excellent technical solutions.  
+
+**Connect with me:**  
+- [LinkedIn](https://www.linkedin.com/in/yuka-yamaguchi-214290342)  
 - [GitHub Profile](https://github.com/JourneySculptor)
