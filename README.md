@@ -10,6 +10,7 @@ Click on a scenario to view the detailed troubleshooting steps.
 ## Current Scenarios
 1. [PC Won't Turn On](pc_wont_turn_on.md)
 2. [Cannot Connect to the Network](network_issue.md)
+3. [Email Not Received](email_not_received.md)
 
 ---
 
@@ -23,7 +24,6 @@ This guide is designed to:
 ## Future Plans
 - Add scenarios such as:
   - **Software crashes**
-  - **Email delivery problems**
   - **Common peripheral device issues (e.g., printers, USB devices)**
 
 ---
